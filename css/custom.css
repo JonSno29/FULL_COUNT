@@ -1,0 +1,108 @@
+.btn-container {
+    text-align: center;
+    justify-content: center;
+
+}
+.fa-star{
+    color: darkgoldenrod;
+}
+
+.contact-icons-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.fa-square-phone {
+    font-size: 4.25rem;
+    color: rgb(1, 0, 0);
+    padding-right: 4.25rem;
+    
+}
+.fa-square-phone:hover {
+    font-size: 5.25rem;
+    color: rgb(238, 32, 32);
+    padding-right: 4.25rem;
+    }
+.fa-envelope {
+    font-size: 4.25rem;
+    color: rgb(1, 0, 0);
+    padding-right: 4.25rem;
+    justify-content: center;
+}
+.fa-envelope:hover {
+    font-size: 5.25rem;
+    color: rgb(244, 10, 10);
+    padding-right: 1.25rem;
+}
+.fa-instagram {
+    font-size: 2.25rem;
+    color: rgb(1, 0, 0);
+    padding-right: 4.25rem;
+    justify-content: center;
+}  
+.fa-facebook-f {
+    font-size: 2.25rem;
+    color: rgb(1, 0, 0);
+    padding-right: 4.25rem;
+    justify-content: center;
+    
+
+}
+.fa-facebook-f:hover {
+    font-size: 5.25rem;
+    color: rgb(1, 0, 0);
+    padding-right: 4.25rem;
+    justify-content: center;
+}
+.fa-instagram:hover {
+    font-size: 5.25rem;
+    color: rgb(1, 0, 0);
+    padding-right: 4.25rem;
+    justify-content: center;
+}  
+
+
+.carousel__slide { 
+    width: 100%;
+    height: 100%;
+    position: center;
+    
+  }
+  .carousel__slide-inner {
+    width: 100%;
+  }
+
+  .carousel__slide-item {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+
+  }
+  .grid-item {
+    width: 50%;
+    height: 50%;
+    position: absolute;
+  }
+.carousel-indicators {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+.carousel-indicators li {
+    width: 100%;
+    height: 100%;
+}
+.carouselExampleIndicators {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+.carousel-ExampleIndicators.carousel__slide-inner {
+    width: 100%;
+}
+.carousel {
+    width: 50%;
+    height: 50%;
+    position: absolute;
+}
